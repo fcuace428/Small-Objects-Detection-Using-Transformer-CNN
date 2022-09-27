@@ -6,7 +6,7 @@ The data set that is used in this project are [MS COCO 2017](https://cocodataset
 python main.py --data <path to training dataset> --name <model>
 ```
 
-## Train
+## evaluate
 ```
 python main.py --evaluate --data <path to validing dataset> --name <model>
 ```
