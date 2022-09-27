@@ -1,3 +1,5 @@
 # Small-Objects-Detection-Using-Transformer-CNN
-Train 
+## Train
+```
 python main.py
+```
